@@ -24,8 +24,9 @@
 
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.google.com/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.google.com/)
+![Profile views](https://gpvc.arturio.dev/[aledx18])
 <!--
 **aledx18/aledx18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
