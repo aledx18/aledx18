@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+
 <!--
 **aledx18/aledx18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
