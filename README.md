@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="400" />
 </div>  
   
 
@@ -87,20 +87,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
