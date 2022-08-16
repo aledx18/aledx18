@@ -12,6 +12,7 @@
 
 - ⚡ Fun fact: I love games  
   
+- If you would like to know more about me feel free to send me a message here or at alediiaz18@gmail.com ! 🤗📧
 
 <br/>  
 
