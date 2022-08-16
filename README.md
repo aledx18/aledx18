@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<p align = "center">
-<img width="270px" src="https://m.media-amazon.com/images/I/51qwyXpJNHL._AC_SL1000_.jpg" />
-  </p>
-<br>
-
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="400" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="700" />
 </div>  
   
 
@@ -101,6 +96,7 @@
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align = "center">
+<img width="270px" src="https://m.media-amazon.com/images/I/51qwyXpJNHL._AC_SL1000_.jpg" />
+  </p>
+<br>
