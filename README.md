@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="700" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="800" />
 </div>  
   
 
-### <div align="center">I'm Alejandro, a full-time full-stack developer 👨‍💻  🚀</div>  
+### <div align="center"><h1">👋, I'm Alejandro</h1>, a full-time full-stack developer 👨‍💻  🚀</div>  
   
 
 - 🌱 I’m currently learning NextJs and React Native  
