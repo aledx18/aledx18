@@ -61,7 +61,12 @@
 
 </td></tr></table>  
 
+
 <br/>  
+<p align = "center">
+<img width="170px" src="https://m.media-amazon.com/images/I/51qwyXpJNHL._AC_SL1000_.jpg" />
+  </p>
+<br>
 
 
 ## Connect with me  
@@ -94,7 +99,4 @@
 
 <div align="center"></div>
 <br />
-<p align = "center">
-<img width="270px" src="https://m.media-amazon.com/images/I/51qwyXpJNHL._AC_SL1000_.jpg" />
-  </p>
-<br>
+
