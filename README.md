@@ -6,19 +6,16 @@
 
 ### <div align="center"><h1>I'm Alejandro</h1> a full-time full-stack developer 👨‍💻  🚀</div>  
   
-
-- 🌱 I’m currently learning NextJs and React Native  
-  
-
-- ⚡ Fun fact: I love games  
-
-I am 24, I was born in Argentina-Tucumán,
-I am a Fullstack Web Developer with a Front-End orientation 👨🏻‍💻
+   
+-I am 24, I was born in Argentina-Tucumán, I am a Fullstack Web Developer with a Front-End orientation 👨🏻‍💻
 
 - Beyond my technical skills, I have great learning ability, problem solving, attention to detail, good communication and attitude. I am always willing to help and learn from others. I like to share knowledge and try to teach to reinforce what I have learned
 
 - Soft Skills Active listening, results orientation, customer orientation, emotional intelligence, crisis management, planning and organization, agile methodologies, teamwork.
   
+- ⚡ Fun fact: I love games 
+- 🌱 I’m currently learning NextJs and React Native  
+
 - If you would like to know more about me feel free to send me a message here or at alediiaz18@gmail.com ! 🤗📧
 
 <br/>  
