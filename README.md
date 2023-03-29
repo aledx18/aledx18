@@ -14,7 +14,6 @@
 - Soft Skills Active listening, results orientation, customer orientation, emotional intelligence, crisis management, planning and organization, agile methodologies, teamwork.
   
 - ⚡ Fun fact: I love games 
-- 🌱 I’m currently learning NextJs and React Native  
 
 - If you would like to know more about me feel free to send me a message here or at alediiaz18@gmail.com ! 🤗📧
 
@@ -81,7 +80,6 @@
 
 ![1 - Landing page](https://user-images.githubusercontent.com/38964375/185197328-9573b6b6-4fb9-4831-8aaf-f358303a1036.jpeg)
 ![4 - AdminDashboard users and roles](https://user-images.githubusercontent.com/38964375/185197337-5a2734e6-66f2-4d65-a64d-598dbd05ec4e.jpeg)
-![3 - AdminDashboard Night mode](https://user-images.githubusercontent.com/38964375/185197338-3be7167c-27e6-4b21-a04e-7012c0c09a3e.jpeg)
 ![5 - Home mobile first](https://user-images.githubusercontent.com/38964375/185197333-02220d1f-2c34-4c8f-a941-f656d9e0f7d4.jpeg)
 
 
