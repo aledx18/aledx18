@@ -15,7 +15,7 @@
   
 - ⚡ Fun fact: I love games 
 
-- Portfolio -> <a href="https://portfolio-aledx18.vercel.app/" target="_blank">Portfolio</a>
+- Portfolio -> <a href="https://porfolio-dev-two.vercel.app/" target="_blank">Portfolio</a>
 - If you would like to know more about me feel free to send me a message here or at alediiaz18@gmail.com ! 🤗📧
 
 <br/>  
