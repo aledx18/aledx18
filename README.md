@@ -13,7 +13,7 @@
 
 - Soft Skills Active listening, results orientation, customer orientation, emotional intelligence, crisis management, planning and organization, agile methodologies, teamwork.
   
-- ⚡ Fun fact: I love games 
+- ⚡ Fun fact: I love video games 
 
 - Portfolio -> <a href="https://porfolio-dev-two.vercel.app/" target="_blank">Portfolio</a>
 - If you would like to know more about me feel free to send me a message here or at alediiaz18@gmail.com ! 🤗📧
